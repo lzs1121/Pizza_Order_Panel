@@ -202,12 +202,12 @@ class PizzaCreator extends React.Component {
           onAmountAdd={this.addSelectedToppingAmount} 
           onAmountMinus={this.minusSelectedToppingAmount} 
         />
-        {/* <Summary 
+        <Summary 
           selectedPizza={selectedSize} 
           selectedToppings={selectedToppings} 
           onToppingAmountAdd={this.addSelectedToppingAmount}
           onToppingAmountMinus={this.minusSelectedToppingAmount}
-        /> */}
+        />
       </form>
     );
   }
