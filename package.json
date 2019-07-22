@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/KieraDOG/pizza-creator.git"
+        "url": "git+https://github.com/lzs1121/Pizza_Order_Panel.git"
     },
     "dependencies": {
         "@babel/preset-react": "^7.0.0",
